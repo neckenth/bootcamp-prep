@@ -1,1 +1,3 @@
 // YOUR CODE BELOW
+
+2000 + 36 - 18 * 1
