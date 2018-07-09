@@ -2,7 +2,7 @@ let counter = 0;
 
 // YOUR CODE BELOW
 
-function incrementalChange(num) {
-    counter += num;
+function incrementalChange(n) {
+    counter += n;
     return counter;
 }
